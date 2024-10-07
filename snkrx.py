@@ -11,7 +11,7 @@ SYNERGIES = [
     ("archer", "rogue"),
     ("nuker", "mage"),
     ("infestor", "curser"),
-    ("healer", "warrior")
+    ("healer", "warrior"),
     ("mercenary", "curser")
 ]
 with open('snkrx_data.csv', newline='') as csvfile:
